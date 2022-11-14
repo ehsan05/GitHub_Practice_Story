@@ -1,1 +1,6 @@
-passowrds.txt
+passwords.txt
+
+
+#using it we do comment and it itself is commit and esterik is used to select all the files to be ignored.
+# such as *.txt it will ignore all the text files.
+
